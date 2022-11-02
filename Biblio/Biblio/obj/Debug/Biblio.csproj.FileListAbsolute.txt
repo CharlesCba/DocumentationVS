@@ -1,0 +1,6 @@
+C:\Users\2140263\Desktop\DocumentationVS-main\Biblio\Biblio\obj\Debug\Biblio.csproj.AssemblyReference.cache
+C:\Users\2140263\Desktop\DocumentationVS-main\Biblio\Biblio\obj\Debug\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\2140263\Desktop\DocumentationVS-main\Biblio\Biblio\bin\Debug\Biblio.dll
+C:\Users\2140263\Desktop\DocumentationVS-main\Biblio\Biblio\bin\Debug\Biblio.pdb
+C:\Users\2140263\Desktop\DocumentationVS-main\Biblio\Biblio\obj\Debug\Biblio.dll
+C:\Users\2140263\Desktop\DocumentationVS-main\Biblio\Biblio\obj\Debug\Biblio.pdb
